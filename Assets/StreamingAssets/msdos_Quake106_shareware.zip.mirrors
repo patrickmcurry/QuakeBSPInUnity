@@ -1,0 +1,26 @@
+# Quake 1.06 Shareware
+# This file lists places you can download the shareware version of Quake 1 for MS-DOS.
+# If you edit the version in the StreamingAssets directory, you need to delete the one in your user directory.
+
+[Metadata]
+# Information about the file you're about to download.
+
+Filename = msdos_Quake106_shareware.zip
+Version = 1.06
+Bytes = 9050608
+MD5 = b0c156697e09acda0d47e76685383147
+CRC32 = 5A916675
+Dynamic = No
+
+[Links]
+# Places where you can download the file you're looking for. The first URL is considered the origin link and given some preference.
+
+1 = https://archive.org/download/msdos_Quake106_shareware/msdos_Quake106_shareware.zip
+2 = https://github.com/patrickmcurry/QuakeStuff/raw/master/Quake1/msdos_Quake106_shareware.zip
+3 = https://patrickcurry.com/quake/msdos_Quake106_shareware.zip
+
+[Mirrors]
+# Places where you can download more files like this, with more file links and mirror links. Early generations are more trusted than later generations.
+
+1 = https://github.com/patrickmcurry/QuakeStuff/raw/master/Quake1/msdos_Quake106_shareware.zip.mirrors
+2 = https://patrickcurry.com/quake/msdos_Quake106_shareware.zip.mirrors
